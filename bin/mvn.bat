@@ -36,9 +36,9 @@
 @REM Begin all REM lines with '@' in case MAVEN_BATCH_ECHO is 'on'
 @echo off
 
-SET JAVA_HOME=C:\Program Files\Java\jdk1.6.0_35
-SET PATH=%JAVA_HOME%\bin;%PATH%
-SET CLASSPATH=%JAVA_HOME%\LIB;%CLASSPATH%
+SET JAVA_HOME =C:\Program Files\Java\jdk1.6.0_35
+SET PATH      =%JAVA_HOME%\bin;%PATH%
+SET CLASSPATH =%JAVA_HOME%\LIB;%CLASSPATH%
  
 
 @REM enable echoing my setting MAVEN_BATCH_ECHO to 'on'
